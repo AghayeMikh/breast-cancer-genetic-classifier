@@ -1,0 +1,5 @@
+# Generated from notebook imports - versions not pinned, install latest compatible
+matplotlib
+numpy
+pandas
+scikit-learn
